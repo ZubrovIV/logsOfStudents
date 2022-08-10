@@ -1,0 +1,6 @@
+/.idea/
+/target/
+/logsOfStudents.iml
+/web/
+/src/main/resources/application.properties
+/out/
